@@ -56,6 +56,12 @@
   height: 200px;
   width: 210px;
 }
+.button:hover{
+    height: 220px;
+    width: 225;
+    font-weight : bold;
+    font-size: large;
+}
   @media only screen and (max-width: 600px) {
     .card {
         width: 80%;
